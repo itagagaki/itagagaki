@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itagagaki&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itagagaki&show=reviews,discussions_started,discussions_answered&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **itagagaki/itagagaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
