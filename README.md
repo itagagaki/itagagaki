@@ -6,7 +6,7 @@
 [#2 lonin](https://github.com/itagagaki/Human68k-ita-toolbox-2-login) - 
 [#3 passwd](https://github.com/itagagaki/Human68k-ita-toolbox-3-passwd) - 
 [#4 mkdir](https://github.com/itagagaki/Human68k-ita-toolbox-4-mkdir) - 
-[#5 rmdir](https://github.com/itagagaki/Human68k-ita-toolbox-6-rmdir) - 
+[#5 rmdir](https://github.com/itagagaki/Human68k-ita-toolbox-5-rmdir) - 
 [#6 rm](https://github.com/itagagaki/Human68k-ita-toolbox-6-rm) - 
 [#7 mv](https://github.com/itagagaki/Human68k-ita-toolbox-7-mv) - 
 [#8 cp](https://github.com/itagagaki/Human68k-ita-toolbox-8-cp) - 
