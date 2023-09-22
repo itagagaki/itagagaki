@@ -1,4 +1,4 @@
-## Human68k ITA TOOLBOX
+👉 Human68k ITA TOOLBOX
 
 - [内部的な共通ファイルと古いアーカイブ](https://github.com/itagagaki/Human68k-ita-toolbox-internal-pieces)
 - 各コマンド -
@@ -37,17 +37,11 @@
 [#33 join](https://github.com/itagagaki/Human68k-ita-toolbox-33-join) - 
 [#34 colrm](https://github.com/itagagaki/Human68k-ita-toolbox-34-colrm)
 
-## Google Chat Thread Switcher (Chrome Extention)
+👉 [Google Chat Thread Switcher](https://github.com/itagagaki/Google-Chat-Thread-Switcher) (Chrome Extention)
 
-[itagagaki/Google-Chat-Thread-Switcher: Google Chat Extension to add a Thread Switcher](https://github.com/itagagaki/Google-Chat-Thread-Switcher)
+👉 [Copy CID](https://github.com/itagagaki/CopyCID) (Chrome Extention)
 
-## Copy CID (Chrome Extention)
-
-[itagagaki/CopyCID: A browser extension that adds a &quot;Copy CID to clipboard&quot; item to the context menu when Google Maps is open. It will copy the CID to the clipboard if it exists in the URL of the map.](https://github.com/itagagaki/CopyCID)
-
-## Deepl-Selected-Text (Thunderbird Extention)
-
-[itagagaki/DeepL-Selected-Text: Translate selected text with DeepL](https://github.com/itagagaki/DeepL-Selected-Text)
+👉 [Deepl-Selected-Text](https://github.com/itagagaki/DeepL-Selected-Text) (Thunderbird Extention)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itagagaki&show=reviews,discussions_started,discussions_answered&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
