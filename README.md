@@ -1,4 +1,4 @@
-👉 [Charu3 SE](https://github.com/itagagaki/charu3-SE)
+👉 [Charu3 SE](https://github.com/itagagaki/charu3-SE) (Windows App)
 
 👉 [Google Chat Thread Switcher](https://github.com/itagagaki/Google-Chat-Thread-Switcher) (Chrome Extention)
 
