@@ -1,5 +1,11 @@
 👉 [Charu3 SE](https://github.com/itagagaki/charu3-SE)
 
+👉 [Google Chat Thread Switcher](https://github.com/itagagaki/Google-Chat-Thread-Switcher) (Chrome Extention)
+
+👉 [Copy CID](https://github.com/itagagaki/CopyCID) (Chrome Extention)
+
+👉 [Deepl-Selected-Text](https://github.com/itagagaki/DeepL-Selected-Text) (Thunderbird Extention)
+
 👉 Human68k ITA TOOLBOX
 
 - [内部的な共通ファイルと古いアーカイブ](https://github.com/itagagaki/Human68k-ita-toolbox-internal-pieces)
@@ -38,12 +44,6 @@
 [#32 comm](https://github.com/itagagaki/Human68k-ita-toolbox-32-comm) - 
 [#33 join](https://github.com/itagagaki/Human68k-ita-toolbox-33-join) - 
 [#34 colrm](https://github.com/itagagaki/Human68k-ita-toolbox-34-colrm)
-
-👉 [Google Chat Thread Switcher](https://github.com/itagagaki/Google-Chat-Thread-Switcher) (Chrome Extention)
-
-👉 [Copy CID](https://github.com/itagagaki/CopyCID) (Chrome Extention)
-
-👉 [Deepl-Selected-Text](https://github.com/itagagaki/DeepL-Selected-Text) (Thunderbird Extention)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itagagaki&show=reviews,discussions_started,discussions_answered&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
