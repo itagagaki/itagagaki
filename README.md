@@ -50,6 +50,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itagagaki&show=reviews,discussions_started,discussions_answered&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+**Qiita Scores:**
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/itagagaki/posts.svg)](http://qiita.com/itagagaki)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/itagagaki/contributions.svg)](http://qiita.com/itagagaki)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/itagagaki/followers.svg)](http://qiita.com/itagagaki)
+                
 <!--
 **itagagaki/itagagaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
