@@ -8,6 +8,8 @@
 
 👉 [Deepl-Selected-Text](https://github.com/itagagaki/DeepL-Selected-Text) (Thunderbird Extention)
 
+👉 [DeepL-Write-Selected-Text](https://github.com/itagagaki/DeepL-Write-Selected-Text) (Thunderbird Extention)
+
 👉 Human68k ITA TOOLBOX
 
 - [内部的な共通ファイルと古いアーカイブ](https://github.com/itagagaki/Human68k-ita-toolbox-internal-pieces)
