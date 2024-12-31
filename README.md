@@ -52,6 +52,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itagagaki&show=reviews,discussions_started,discussions_answered&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+https://github-readme-activity-graph.vercel.app/graph?username=itagagaki&theme=github-compact&days=60&height=300
+
 **Qiita Scores:**
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/itagagaki/posts.svg)](http://qiita.com/itagagaki)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/itagagaki/contributions.svg)](http://qiita.com/itagagaki)
