@@ -6,7 +6,7 @@
 
 👉 [Copy CID](https://github.com/itagagaki/CopyCID) (Chrome Extention)
 
-👉 [Deepl-Selected-Text](https://github.com/itagagaki/DeepL-Selected-Text) (Thunderbird Extention)
+👉 [DeepL-Selected-Text](https://github.com/itagagaki/DeepL-Selected-Text) (Thunderbird Extention)
 
 👉 [DeepL-Write-Selected-Text](https://github.com/itagagaki/DeepL-Write-Selected-Text) (Thunderbird Extention)
 
