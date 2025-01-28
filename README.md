@@ -52,7 +52,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itagagaki&show=reviews,discussions_started,discussions_answered&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itagagaki&theme=github-compact&area-color=#77ff77&days=60&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itagagaki&theme=github-compact&area-color=77ff77&days=60&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 **Qiita Scores:**
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/itagagaki/posts.svg)](http://qiita.com/itagagaki)
