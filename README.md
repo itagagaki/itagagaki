@@ -1,21 +1,21 @@
-👉 [Charu3 SE](https://github.com/itagagaki/charu3-SE) (Windows App)
+#### 👉 [Charu3 SE](https://github.com/itagagaki/charu3-SE) (Windows App)
 
-👉 [AVI-Mux-GUI](https://github.com/itagagaki/AVI-Mux-GUI) (Windows App)
+#### 👉 [AVI-Mux-GUI](https://github.com/itagagaki/AVI-Mux-GUI) (Windows App)
 
-👉 [Google Chat Thread Switcher](https://github.com/itagagaki/Google-Chat-Thread-Switcher) (Chrome Extention)
+#### 👉 [Google Chat Thread Switcher](https://github.com/itagagaki/Google-Chat-Thread-Switcher) (Chrome Extention)
 
-👉 [Copy CID](https://github.com/itagagaki/CopyCID) (Chrome Extention)
+#### 👉 [Copy CID](https://github.com/itagagaki/CopyCID) (Chrome Extention)
 
-👉 [DeepL-Selected-Text](https://github.com/itagagaki/DeepL-Selected-Text) (Thunderbird Extention)
+#### 👉 [DeepL-Selected-Text](https://github.com/itagagaki/DeepL-Selected-Text) (Thunderbird Extention)
 
-👉 [DeepL-Write-Selected-Text](https://github.com/itagagaki/DeepL-Write-Selected-Text) (Thunderbird Extention)
+#### 👉 [DeepL-Write-Selected-Text](https://github.com/itagagaki/DeepL-Write-Selected-Text) (Thunderbird Extention)
 
-👉 Human68k ITA TOOLBOX
+#### 👉 Human68k ITA TOOLBOX
 
 - [内部的な共通ファイルと古いアーカイブ](https://github.com/itagagaki/Human68k-ita-toolbox-internal-pieces)
 - 各コマンド -
 [#1 fish](https://github.com/itagagaki/Human68k-ita-toolbox-1-fish) - 
-[#2 lonin](https://github.com/itagagaki/Human68k-ita-toolbox-2-login) - 
+[#2 login](https://github.com/itagagaki/Human68k-ita-toolbox-2-login) - 
 [#3 passwd](https://github.com/itagagaki/Human68k-ita-toolbox-3-passwd) - 
 [#4 mkdir](https://github.com/itagagaki/Human68k-ita-toolbox-4-mkdir) - 
 [#5 rmdir](https://github.com/itagagaki/Human68k-ita-toolbox-5-rmdir) - 
