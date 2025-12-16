@@ -64,7 +64,8 @@
 
 # Experiental
 
-[3D CG Image Generation Using the Ray Tracking Method](https://github.com/itagagaki/Imitation-of-the-Image-Factory)
+#### 👉 [3D CG Image Generation Using the Ray Tracking Method](https://github.com/itagagaki/Imitation-of-the-Image-Factory)
+#### 👉 [Network Adapter Indicator](https://github.com/itagagaki/Network-Adapter-Indicator) (Windows App)
 
 <!--
 **itagagaki/itagagaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
