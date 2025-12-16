@@ -1,6 +1,15 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itagagaki&show=reviews,discussions_started,discussions_answered&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+# Stats
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itagagaki&theme=github-compact&area=true&days=60&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itagagaki&show=reviews,discussions_started,discussions_answered&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+**Qiita Scores:**
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/itagagaki/posts.svg)](http://qiita.com/itagagaki)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/itagagaki/contributions.svg)](http://qiita.com/itagagaki)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/itagagaki/followers.svg)](http://qiita.com/itagagaki)
+
+# Major Products
 
 #### 👉 [Charu3 SE](https://github.com/itagagaki/charu3-SE) (Windows App)
 
@@ -53,11 +62,10 @@
 [#33 join](https://github.com/itagagaki/Human68k-ita-toolbox-33-join) - 
 [#34 colrm](https://github.com/itagagaki/Human68k-ita-toolbox-34-colrm)
 
-**Qiita Scores:**
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/itagagaki/posts.svg)](http://qiita.com/itagagaki)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/itagagaki/contributions.svg)](http://qiita.com/itagagaki)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/itagagaki/followers.svg)](http://qiita.com/itagagaki)
-                
+# Experiental
+
+[3D CG Image Generation Using the Ray Tracking Method](https://github.com/itagagaki/Imitation-of-the-Image-Factory)
+
 <!--
 **itagagaki/itagagaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
