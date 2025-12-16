@@ -49,6 +49,7 @@
 [#33 join](https://github.com/itagagaki/Human68k-ita-toolbox-33-join) - 
 [#34 colrm](https://github.com/itagagaki/Human68k-ita-toolbox-34-colrm)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itagagaki&show=reviews,discussions_started,discussions_answered&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
