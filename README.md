@@ -1,3 +1,7 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itagagaki&show=reviews,discussions_started,discussions_answered&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itagagaki&theme=github-compact&area=true&days=60&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 #### 👉 [Charu3 SE](https://github.com/itagagaki/charu3-SE) (Windows App)
 
 #### 👉 [AVI-Mux-GUI](https://github.com/itagagaki/AVI-Mux-GUI) (Windows App)
@@ -48,12 +52,6 @@
 [#32 comm](https://github.com/itagagaki/Human68k-ita-toolbox-32-comm) - 
 [#33 join](https://github.com/itagagaki/Human68k-ita-toolbox-33-join) - 
 [#34 colrm](https://github.com/itagagaki/Human68k-ita-toolbox-34-colrm)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itagagaki&show=reviews,discussions_started,discussions_answered&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itagagaki&theme=github-compact&area=true&days=60&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 **Qiita Scores:**
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/itagagaki/posts.svg)](http://qiita.com/itagagaki)
