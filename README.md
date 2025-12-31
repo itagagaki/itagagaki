@@ -18,7 +18,7 @@
 
 #### 👉 [Google Chat Thread Switcher](https://github.com/itagagaki/Google-Chat-Thread-Switcher) (Chrome Extention)
 
-#### 👉 [Copy CID](https://github.com/itagagaki/CopyCID) (Chrome Extention)
+#### 👉 [CopyCID](https://github.com/itagagaki/CopyCID) (Chrome Extention)
 
 #### 👉 [DeepL-Selected-Text](https://github.com/itagagaki/DeepL-Selected-Text) (Thunderbird Extention)
 
