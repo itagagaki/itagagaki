@@ -1,10 +1,10 @@
 # Stats
 
+[![Torophy](https://github-profile-trophy-fork-two.vercel.app/?username=itagagaki&theme=light)](https://github-profile-trophy-fork-two.vercel.app/?username=itagagaki&theme=light)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itagagaki&theme=github-compact&area=true&days=60&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=itagagaki&show=reviews,discussions_started,discussions_answered&show_icons=true&card_width=380)](https://github.com/anuraghazra/github-readme-stats)
-[![Torophy](https://github-profile-trophy-fork-two.vercel.app/?username=itagagaki&theme=light&column=4)](https://github-profile-trophy-fork-two.vercel.app/?username=itagagaki&theme=light)
-
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itagagaki&layout=compact&card_width=380&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 **Qiita Scores:**
