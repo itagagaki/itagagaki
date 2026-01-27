@@ -1,6 +1,6 @@
 # Stats
 
-[![Torophy](https://github-profile-trophy-fork-two.vercel.app/?username=itagagaki&theme=light)](https://github-profile-trophy-fork-two.vercel.app/?username=itagagaki&theme=light)
+[![Torophy](https://github-profile-trophy-fork-two.vercel.app/?username=itagagaki&theme=light&margin-w=30&margin-h=15)](https://github-profile-trophy-fork-two.vercel.app/?username=itagagaki&theme=light)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itagagaki&theme=github-compact&area=true&days=60&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
