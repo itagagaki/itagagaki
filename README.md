@@ -17,6 +17,8 @@
 
 #### 👉 [Charu3 SE](https://github.com/itagagaki/charu3-SE) (Windows App)
 
+#### 👉 [IME Pilot Lamp Indicator](https://github.com/itagagaki/ime-pilot-lamp-indicator) (Windows App)
+
 #### 👉 [AVI-Mux-GUI](https://github.com/itagagaki/AVI-Mux-GUI) (Windows App)
 
 #### 👉 [Google Chat Thread Switcher](https://github.com/itagagaki/Google-Chat-Thread-Switcher) (Chrome Extention)
