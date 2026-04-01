@@ -16,21 +16,13 @@
 # Major Products
 
 #### 👉 [Charu3 SE](https://github.com/itagagaki/charu3-SE) (Windows App)
-
 #### 👉 [IME Edge Bar](https://github.com/itagagaki/ime-edge-bar) (Windows App)
-
 #### 👉 [IME Pilot Lamp Indicator](https://github.com/itagagaki/ime-pilot-lamp-indicator) (Windows App)
-
 #### 👉 [AVI-Mux-GUI](https://github.com/itagagaki/AVI-Mux-GUI) (Windows App)
-
 #### 👉 [Google Chat Thread Switcher](https://github.com/itagagaki/Google-Chat-Thread-Switcher) (Chrome Extention)
-
 #### 👉 [CopyCID](https://github.com/itagagaki/CopyCID) (Chrome Extention)
-
 #### 👉 [DeepL-Selected-Text](https://github.com/itagagaki/DeepL-Selected-Text) (Thunderbird Extention)
-
 #### 👉 [DeepL-Write-Selected-Text](https://github.com/itagagaki/DeepL-Write-Selected-Text) (Thunderbird Extention)
-
 #### 👉 Human68k ITA TOOLBOX
 
 - [内部的な共通ファイルと古いアーカイブ](https://github.com/itagagaki/Human68k-ita-toolbox-internal-pieces)
