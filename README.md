@@ -3,8 +3,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=itagagaki&show=reviews,discussions_started,discussions_answered&show_icons=true&card_width=380)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itagagaki&layout=compact&card_width=400&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Torophy](https://github-profile-trophy-fork-two.vercel.app/?username=itagagaki&theme=light&no-frame=true&margin-w=120&margin-h=10&column=5)](https://github-profile-trophy-fork-two.vercel.app/?username=itagagaki&theme=light&margin-w=50&margin-h=15)
-
 # Qiita Stats
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/itagagaki/posts.svg)](http://qiita.com/itagagaki)
