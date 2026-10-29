@@ -1,7 +1,6 @@
 # GitHub Stats
 
 [![github-stats-extended](https://github-stats-extended.vercel.app/api?username=itagagaki&show=reviews,discussions_started,discussions_answered&show_icons=true&card_width=380)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itagagaki&layout=compact&card_width=400&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 # Qiita Stats
 
